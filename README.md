@@ -23,7 +23,3 @@
 - Postman (базово)
 - SQL (базово)
 - Agile / Scrum
-
-## 👩‍💻 Автор
-QA Engineer (Manual)  
-Email: your_email@example.com
